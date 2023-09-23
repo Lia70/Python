@@ -11,4 +11,6 @@ p = int(input("Задайте произведение чисел: "))
 for x in range(s):
     for y in range(p):
         if s == x + y and p == x * y:
-            print(f'Первое число: "{x}", второе число: "{y}"')
+            print(f'Первое число: "{x}", второе число: "{y}"') 
+            
+                  
